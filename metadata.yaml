@@ -1,11 +1,16 @@
 _repo: The-Draughtsman-s-Handbook-of-Plan-and-Map-Drawing-Including-instructions-for-the-preparation__57290
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57290-h/images/cover_sm.jpg
 creator:
   author:
     agent_name: André, George G.
     gutenberg_agent_id: '49298'
     url: http://www.gutenberg.org/2009/agents/49298
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57290#The-Draughtsman-s-Handbook-of-Plan-and-Map-Drawing-Including-instructions-for-the-preparation_
 gutenberg_issued: '2018-06-08'
 gutenberg_type: Text
 identifiers:
